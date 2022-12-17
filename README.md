@@ -1,7 +1,7 @@
 # SwarmDeepSurv
-SwarmDeepSurv: Swarm Intelligence Advances Deep Survival Network for Prognostic Radiomics Signatures in Four Different Cancers
+SwarmDeepSurv: Swarm Intelligence Advances Deep Survival Network for Prognostic Radiomics Signatures in Four Solid Cancers
 
-Submitted to Nature Machine Intelligence
+Submitted to Patterns - Cell Press
 
 Swarm intelligence-based framework (termed SwarmDeepSurv) combines Swarm Intelligence (SI) with deep survival model.
 
