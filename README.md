@@ -1,4 +1,4 @@
-# SwarmDeepSurv
+# SwarmDeepSurv [![DOI](https://zenodo.org/badge/530675749.svg)](https://zenodo.org/badge/latestdoi/530675749)
 SwarmDeepSurv: Swarm Intelligence Advances Deep Survival Network for Prognostic Radiomics Signatures in Four Solid Cancers
 
 Submitted to Patterns - Cell Press
