@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Al-Tashi"
+  given-names: "Qasem"
+  orcid: "https://orcid.org/0000-0001-7208-693X"
+
+title: "SwarmDeepSurv"
+version: Qasem.v0.1.0
+doi: 10.5281/zenodo.7903604
+date-released: 2023-05-06
+url: "https://doi.org/10.5281/zenodo.7903604"
